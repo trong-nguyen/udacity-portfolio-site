@@ -1,5 +1,17 @@
 # Portfolio
+A personal site showcasing featured works and other projects.
+
+
 Strictly adhere to the minimal workable template from [Sitepoint](https://www.sitepoint.com/a-basic-html5-template/)
+
+## Usage
+
+The Portfolio site is a static webpage served from `html/index.html` with styles and js from `css/` and `js/`, respectively.  
+
+`styles.css` defines styles for custom elements while `typography.css`
+ is for responsive font-size.  
+
+No js functionalities is present.  
 
 ## Templates
 
